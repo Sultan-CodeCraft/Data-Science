@@ -1,2 +1,3 @@
 # Data-Science
-Data Science Projects.
+- Data Science Projects Using Python
+- Using Jupyter Notebook
