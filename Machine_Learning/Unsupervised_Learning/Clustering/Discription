@@ -1,1 +1,0 @@
-Clustering: Grouping data points into clusters where points in the same cluster share similar characteristics. The algorithm tries to maximize the similarity of data points within each cluster while minimizing the similarity between different clusters. Common clustering algorithms include K-Means, Hierarchical Clustering, and DBSCAN.
