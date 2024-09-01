@@ -2,3 +2,4 @@
 - Data Science Projects Using Python
 - Using Jupyter Notebook
 - Machine learning algorithms
+- Deep learning
